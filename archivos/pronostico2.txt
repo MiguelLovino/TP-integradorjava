@@ -1,3 +1,0 @@
-Equipo,Resultado
-Argentina,1
-Arabia Saudita,2
